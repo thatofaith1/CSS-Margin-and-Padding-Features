@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header-container {
+    background-color: #333;
+    padding: 20px;
+  }
+  
+  .header-container h1 {
+    color: #fff;
+    margin: 0;
+  }
+  
+  .introduction-container {
+    background-color: papayawhip;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .skills-container {
+    background-color: gainsboro;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .skills-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-container ul li {
+    border: 1px solid sandybrown;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .contact {
+    background-color: papayawhip;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .contact ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact ul li {
+    color: black;
+  }
+  
+  .contact ul li a {
+    color: black;
+    text-decoration: none;
+  }
+  
